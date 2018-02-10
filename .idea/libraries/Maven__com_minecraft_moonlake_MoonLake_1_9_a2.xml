@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.minecraft.moonlake:MoonLake:1.9-a2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/minecraft/moonlake/MoonLake/1.9-a2/MoonLake-1.9-a2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/minecraft/moonlake/MoonLake/1.9-a2/MoonLake-1.9-a2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/minecraft/moonlake/MoonLake/1.9-a2/MoonLake-1.9-a2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
